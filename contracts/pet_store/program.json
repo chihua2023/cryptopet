@@ -1,0 +1,11 @@
+{
+    "program": "cryptopet.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpGPBeKo9i6wuBFSkouou92txtr7LzDGq9gCDkYxfr4Ge5",
+        "address": "aleo10r0ghwyh0uvurq3w5skdnd5ar4wxc8g4wjcfwxv8zn2dr3xd3qysam6u4v"
+    },
+    "license": "MIT"
+}
+

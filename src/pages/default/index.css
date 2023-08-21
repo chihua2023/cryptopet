@@ -1,0 +1,28 @@
+
+.justify {
+    display: flex;
+    justify-content: space-between;
+}
+.btn-box{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+.btn-box .detail_icon{margin-left: 30px; background: none;color: #23272d; border: solid #23272d 1px;}
+.btn-box .detail_icon:hover{background: #23272d;
+    color: #fff;
+    border: solid #23272d 1px;}
+.card-img,
+.card-img-top {
+    background: #99a0e996;
+}
+.subTitleIcon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px
+}
+.pet-main{
+    font-size: 20px;
+    border-bottom: solid 1px #eee;
+    padding-bottom: 10px;
+}
