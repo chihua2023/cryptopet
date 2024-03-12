@@ -10,10 +10,10 @@ The CryptoPet team has brought together top talents from Shanda, AMD, Intel and 
 
 
 ## Discord:
-amor#7155  
-aiyo#7105  
-暴龙战士  
-cherrysoso2021  
+1、amor#7155  
+2、aiyo#7105  
+3、暴龙战士#5520 
+4、cherrysoso2021  
 
 ## Guide
 
