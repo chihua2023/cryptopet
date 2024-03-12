@@ -1,11 +1,4 @@
 ## Introduction
-# Discord:
-Discord:
---amor
---aiyo
---暴龙战士
---cherrysoso2021
-
 
 CryptoPets is a pet store developed based on the Aleo chain, where players can anonymously adopt their favorite pets on it. Each pet has a unique identifier on the chain, which guarantees the uniqueness and scarcity of the pet. Players can feed and train their pets to enhance their abilities and values.
 
@@ -15,6 +8,12 @@ In the future, we intend to make CryptoPet into a GameFi, combining with a numbe
 
 The CryptoPet team has brought together top talents from Shanda, AMD, Intel and other Internet giants, who have been deeply engaged in the blockchain field for many years, and participated in the filecoin project in the past, accumulating rich experience and technical strength. In the future, the team will continue to conduct in-depth research and innovation in the fields of Aleo, Web3.0 and GameFi, zero knowledge track, and is committed to promoting the integration of blockchain technology and the game industry.
 
+
+## Discord:
+#amor
+#aiyo
+#暴龙战士
+#cherrysoso2021
 
 ## Guide
 
