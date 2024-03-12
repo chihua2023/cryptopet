@@ -9,11 +9,12 @@ In the future, we intend to make CryptoPet into a GameFi, combining with a numbe
 The CryptoPet team has brought together top talents from Shanda, AMD, Intel and other Internet giants, who have been deeply engaged in the blockchain field for many years, and participated in the filecoin project in the past, accumulating rich experience and technical strength. In the future, the team will continue to conduct in-depth research and innovation in the fields of Aleo, Web3.0 and GameFi, zero knowledge track, and is committed to promoting the integration of blockchain technology and the game industry.
 
 
-## Discord:
+## Discord Account:
 1、amor#7155  
 2、aiyo#7105  
 3、暴龙战士#5520   
 4、cherrysoso2021  
+5、cc2024_45523  
 
 ## Guide
 
